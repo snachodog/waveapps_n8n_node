@@ -13,10 +13,7 @@ This package provides a custom n8n node to interact with the WaveApps API, allow
 Follow these steps to install the WaveApps node in your n8n instance.
 
 ### Using npm
-
 Run the following command in your n8n root directory:
-
-
 ```
 npm install <your-package-name>
 ```
